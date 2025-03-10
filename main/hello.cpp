@@ -7,5 +7,6 @@ int main(void) {
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run this  \n";
   cout << "My name is Siddharth Gandhi  \n";
+  cout << "My name is Siddharth Gandhi  \n";
   return 0;
 }
